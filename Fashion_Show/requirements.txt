@@ -1,0 +1,6 @@
+transformers
+timm
+torch
+gradio
+matplotlib
+albumentations
